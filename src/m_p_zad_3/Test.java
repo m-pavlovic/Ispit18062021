@@ -33,7 +33,7 @@ public class Test {
             books.addNewBook(book4);
             books.addNewBook(book5);
 
-            books.listAllBooks();
+            //books.listAllBooks();
 
             System.out.println("\nBooks of the author - " + author1);
             books.listAllBooksOfAuthor(author1);
